@@ -1,0 +1,2 @@
+git mv olderfilename newfilename
+git mv renaming.txt newrenamed.txt 
